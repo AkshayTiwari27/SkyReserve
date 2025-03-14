@@ -79,7 +79,7 @@ Select an option and follow the interactive prompts to complete your booking.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Acknowledgements
 
