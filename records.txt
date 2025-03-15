@@ -1,0 +1,10 @@
+_____________SkyHorizon Airlines____________
+______________Ticket_________________
+_____________________________________
+Customer ID:2
+Customer Name:Aryan
+Customer Gender:Male
+	Description
+
+Destination		UK
+Flight cost :		44000
